@@ -1,5 +1,5 @@
 # Robotics_18
-2018_2_Robotics Term Project
+2018_2_Robotics Term Project (video)
 
 [![Demo Video](https://img.youtube.com/vi/7QjjGhCHlPk/sddefault.jpg)](https://www.youtube.com/watch?v=7QjjGhCHlPk)
 
